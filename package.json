@@ -1,0 +1,17 @@
+{
+  "name": "ssss",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "index.js",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --dedupe --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es-dev-server": "^1.38.0"
+  },
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}
